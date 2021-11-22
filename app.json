@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Entrevista-app",
+    "slug": "Entrevista-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Entrevista-app"
+}
